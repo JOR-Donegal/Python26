@@ -1,18 +1,18 @@
 # Coding with operators
 
-I want to move away now from using the Python interpreter directly. I'm going to start writing simple code in an editor. I can't run the program from the editor, I'm going to do that from the command prompt.
+I want to move away now from using the Python interpreter directly. I'm going to start writing simple code in an editor. I can't run the program from the editor, I'm going to do that from the command prompt. Use Notepad++ for the rest of these exercises.
 
 1. Start a new sheet in Notepad ++
 2. Create add.py as shown and run to test
 
 <figure>
 <img src = "https://jor-donegal.github.io/Python26/images/fig1.jpg">
-<figcaption>Fig 1. Module output.</figcaption>
+<figcaption>Fig 1. Add.py.</figcaption>
 </figure>
 
 1. Test all the operators in Arithmetic Operators and make sure they give the expected answer.
 
-### Exercise <a href="#exercise" id="exercise"></a>
+## Exercise
 
 I created a very contrived programme to assign values to variables and print out the result. Using the same approach, write a programme to calculate your budget (budget.py) and expenditure for this semester. Do not use real numbers, keep this fictional!
 
