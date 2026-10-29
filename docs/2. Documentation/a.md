@@ -1,4 +1,4 @@
-# 2. Documentation
+# Overview
 
 Guido van Rossum is rather important in the history of Python! One of the points he makes is that you may write code once, but many other people (including yourself) will have to read it in the future, to refactor, debug, modify, audit, etc. The exact quote is “_Code is more often read than written_”.
 
