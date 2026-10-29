@@ -5,7 +5,10 @@ I want to move away now from using the Python interpreter directly. I'm going to
 1. Start a new sheet in Notepad ++
 2. Create add.py as shown and run to test
 
-![](https://www.gitbook.com/cdn-cgi/image/dpr=2,width=760,onerror=redirect,format=auto/https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FwaPIks0TDQHpI0Cy8Jml%2Fblobs%2F0CGLhcQ71LMQON1athkD%2Fimage.png)
+<figure>
+<img src = "https://jor-donegal.github.io/Python26/images/fig1.jpg">
+<figcaption>Fig 1. Module output.</figcaption>
+</figure>
 
 1. Test all the operators in Arithmetic Operators and make sure they give the expected answer.
 
