@@ -57,17 +57,17 @@ print(mysquare.square_text, mysquare.square(3))
 
 There are quite a few ideas to take away from this. I can build packages of reusable code, making all my work modular. To reuse this code in a different project, all I need to do is to copy the entire directory. Obviously, I need heavy commenting and comprehensible documentation to make this really work.
 
-In the examples, I have used functions, but I've also created and used variables from within my packages. I can use the **as** keyword to reference an imported function and give it any name I like to make it meaningful in my code. Note that I can apply this technique to an entire module also.&#x20;
+In the examples, I have used functions, but I've also created and used variables from within my packages. I can use the **as** keyword to reference an imported function and give it any name I like to make it meaningful in my code. Note that I can apply this technique to an entire module also.
 
-For example, the graphing library matplotlib is typically imported as plt, making code more economical and readable. In case you are lost, I have used the tree command to map my directory structure for this exercise so far.
+For example, the graphing library _matplotlib_ is typically imported as plt, making code more economical and readable. In case you are lost, I have used the __tree__ command to map my directory structure for this exercise so far.
 
 <figure>
-<img src = "https://jor-donegal.github.io/Python26/images/fig39.jpg">
-<figcaption>Fig 39. Response.</figcaption>
+<img src = "https://jor-donegal.github.io/Python26/images/fig40.jpg">
+<figcaption>Fig 40. Tree.</figcaption>
 </figure>
 
 In a large project, I may have several packages which I call, and I need to keep track of all of them.&#x20;
 
-In a recent project I had network utilities, serial utilities, the decoding of UBlox GPS equipment, the decoding of standard marine instruments, all as separate packages.&#x20;
+In a recent project I had network utilities, serial utilities, the decoding of UBlox GPS equipment, the decoding of standard marine instruments, all as separate packages.
 
-Imagine being able to pull years of work into a project in a modular way, without having to worry too much about interdependencies, it all just works! 
+Imagine being able to pull years of work into a project in a modular way, without having to worry too much about interdependencies, it all just works!
