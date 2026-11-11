@@ -1,4 +1,4 @@
-# Background
+# Getting started
 
 In Python we have the standard libraries which come default. There are millions of lines of code available in 3rd party libraries that have been written over the years. And we can write our own libraries of functions.
 
