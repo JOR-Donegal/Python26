@@ -1,4 +1,4 @@
-# 8. Getting started
+# Getting started
 
 These notes are provided to demonstrate how to get started with _Object Oriented_ (OO) coding in Python. So far, we have concentrated on functional programming. The fundamental units of coding are functions, and we create a main program to call these functions in the correct sequence. In scripting, this is a perfect paradigm for most of the code we are going to write.
 

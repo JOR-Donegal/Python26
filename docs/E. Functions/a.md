@@ -1,4 +1,4 @@
-# Modular Code
+# Getting started
 
 These notes are provided to demonstrate how to get started with functions in Python. When we write code in almost any programming language, we break up reusable blocks of code into _functions_.
 

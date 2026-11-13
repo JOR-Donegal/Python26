@@ -1,4 +1,4 @@
-# 12. Getting Started
+# Getting Started
 
 We have covered a lot of theory, in this section, I'm going to wind up these notes by kicking off a first project.
 

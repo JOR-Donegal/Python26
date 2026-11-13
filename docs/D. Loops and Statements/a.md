@@ -1,4 +1,4 @@
-# Control Flow
+# Getting started
 
 These notes are provided to demonstrate how to get started coding loops and conditional statements in Python. The general name for this topic is control flow. In the earliest days of computing, one of the first things we realized, is that we would need to execute different branches of code depending on Boolean conditions. If it is raining, switch on the windscreen wipers!
 

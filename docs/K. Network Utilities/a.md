@@ -1,4 +1,4 @@
-# 11. Network Utilities
+# Network Utilities
 
 These exercises are provided to demonstrate how to get started with network protocols in Python. I assume you have no knowledge of networking, but I do not explain terms in great detail. If a term has you confused, do some background research. Otherwise, identify what you do not know, this will be covered in the networking module.
 

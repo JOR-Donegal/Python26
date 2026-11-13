@@ -1,4 +1,4 @@
-# Instructions
+# Getting started
 
 For this group of exercises, create a folder called _/Python/Exercises03_
 
