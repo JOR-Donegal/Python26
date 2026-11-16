@@ -1,5 +1,7 @@
 # FTP
 
+Beware! Things change quickly, especially with old protocols. When testing FTP you may run into problems with support being removed, if stuff doesn't work, read around the problem.
+
 The simplest (and most insecure) way we can transfer files will be to use file transfer protocol (FTP). The commands below may need to be altered depending on the version of Linux you use them on. I have tested this on Azure Labs to UB2204 in WSL2, it works fine!
 
 I can install the most modern FTP library using

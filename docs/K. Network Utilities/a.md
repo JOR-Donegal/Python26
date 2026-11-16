@@ -11,4 +11,3 @@ For this group of exercises, create a folder called _/Python/Exercises11_
 Keep your scripts in _/Python/Exercises11/Code_ with an appropriate name.
 
 Keep a screenshot of any tests you do in _/Python/Exercises11/Tests_ with an appropriate name.
-
