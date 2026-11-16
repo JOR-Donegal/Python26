@@ -12,10 +12,15 @@ _Projects_ will have a dedicated repo, with a **README.md** in the root explaini
 
 I wish I could say there was universal agreement on how to document code, but it is an area of debate and difference, even when using the PEPs.
 
-Before you begin, create a directory to keep example files in and you are ready to code.
-
-This could be on your OneDrive, in these examples, I am using _OneDrive\Python\Exercises\_02_
-
-I am using the command line interpreter (CLI) or interactive shell for some of these notes. This lets me run simple code and interpret the output immediately.&#x20;
+I am using the command line interpreter (CLI) or interactive shell for some of these notes. This lets me run simple code and interpret the output immediately.
 
 I also use Notepad ++ for other exercises. Use the editor of your choice.
+
+You are required to go through these exercises and understand them, however, you only need to keep code examples where I have specified you should create a file and test.
+
+For this group of exercises, create a folder called _/Python/Exercises02_
+
+Keep your scripts in _/Python/Exercises02/Code_ with an appropriate name.
+
+Keep a screenshot of any tests you do in _/Python/Exercises02/Tests_ with an appropriate name.
+
